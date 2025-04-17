@@ -77,5 +77,3 @@ The model pipeline includes:
 4. Performance evaluation using R² score metrics
 5. Model deployment using Flask API and Docker
 
-## Contributors
-- [Priyanshu Kumar Singh](https://github.com/Priyanshu1303d)
